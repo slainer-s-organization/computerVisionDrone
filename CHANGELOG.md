@@ -1,4 +1,10 @@
-## 0.0.1 (2026-08-27)
+## Unreleased
+
+### Fix
+
+- version tag format
+
+## v0.1.0 (2026-08-27)
 
 ### Feat
 
